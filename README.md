@@ -2,7 +2,7 @@
 
 Este repositorio contiene la resolución de una serie de ejercicios en SQL utilizando la base de datos de ejemplo **Sakila**.
 
-## 🚀 Cómo Arrancar el Proyecto (Instrucciones de Uso)
+## 🚀 Cómo Arrancar el Proyecto
 
 Para poder ejecutar los ficheros SQL de este proyecto, es necesario seguir tres pasos básicos:
 
@@ -21,7 +21,7 @@ Después, asegúrate de que tienes la base de datos **Sakila** instalada en tu s
 Una vez que la base de datos `sakila` esté operativa, puedes ejecutar el fichero de consultas.
 
 1.  **Abre tu cliente SQL preferido** (por ejemplo, MySQL Workbench).
-2.  **Copia y pega el contenido** del fichero de ejercicios (`Evaluacion-AlbaJalencas.sql` o similar) en tu cliente SQL o ábrelo directamente si los has descargado.
+2.  **Copia y pega el contenido** del fichero de ejercicios (`Evaluacion-AlbaJalencas.sql`) en tu cliente SQL o ábrelo directamente si lo has descargado.
 3. **Ejecuta las consultas**.
 
 ---
